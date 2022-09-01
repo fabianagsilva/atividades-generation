@@ -7,7 +7,7 @@ verifique se há excesso. Se houver, gravar na variável E (Excesso) e na
 variável M o valor da multa que João deverá pagar. Caso contrário mostrar
 tais variáveis com o conteúdo ZERO.*/
 
-programa {
+programa{
 
  	funcao inicio (){
 		
@@ -30,9 +30,9 @@ programa {
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 694; 
+ * @POSICAO-CURSOR = 560; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
- * @FILTRO-ARVORE-TIPOS-DE-DADO = logico, cadeia, caracter, vazio;
+ * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
  * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz, funcao;
  */

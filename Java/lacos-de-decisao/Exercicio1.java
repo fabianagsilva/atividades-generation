@@ -6,7 +6,7 @@
 	variável M o valor da multa que João deverá pagar. Caso contrário mostrar
 	tais variáveis com o conteúdo ZERO.*/
 
-package Exercicios;
+package ExerciciosLacosDeDecisao;
 
 import java.util.Scanner;
 

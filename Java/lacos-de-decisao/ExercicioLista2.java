@@ -1,10 +1,10 @@
-/*1- Faça um programa que receba três inteiros e diga qual deles é o maior*/
+/*2- Faça um programa que entre com três números e coloque em ordem crescente.*/
 
-package Exercicios;
+package ExerciciosLacosDeDecisao;
 
 import java.util.Scanner;
 
-public class Exercicio3 {
+public class ExercicioLista2 {
 
 	public static void main(String[] args) {
         /*
